@@ -1,0 +1,34 @@
+{
+  "name": "zero-bounce/sdk",
+  "description": "The ZeroBounce SDK for PHP programming language",
+  "keywords": [
+    "zero",
+    "bounce",
+    "sdk"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "dumpautoload": "composer dumpautoload -o"
+  },
+  "authors": [
+    {
+      "name": "Zero Bounce",
+      "email": "integrations@zerobounce.net",
+      "homepage": "https://www.zerobounce.net/"
+    }
+  ],
+  "type": "library",
+  "require": {
+    "php": ">=7.0",
+    "ext-json": "*",
+    "ext-curl": "*"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^10.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "ZeroBounce\\SDK\\": "src/"
+    }
+  }
+}

@@ -1,0 +1,6 @@
+[25-Jul-2024 06:30:46 UTC] PHP Warning:  require(/public/main.php): Failed to open stream: No such file or directory in /home/autoresponder/public_html/index.php on line 60
+[25-Jul-2024 06:30:46 UTC] PHP Warning:  require(/public/main.php): Failed to open stream: No such file or directory in /home/autoresponder/public_html/index.php on line 60
+[25-Jul-2024 06:30:46 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/public/main.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/autoresponder/public_html/index.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/autoresponder/public_html/index.php on line 60

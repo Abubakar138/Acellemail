@@ -1,0 +1,10 @@
+[23-Jul-2024 04:27:57 Europe/Rome] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/autoresponder/public_html/app/Framework/SymfonyRequest.php on line 37
+[23-Jul-2024 04:27:58 Europe/Rome] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/autoresponder/public_html/app/Framework/SymfonyRequest.php on line 37
+[23-Jul-2024 04:28:55 Europe/Rome] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/autoresponder/public_html/app/Framework/SymfonyRequest.php on line 37
+[23-Jul-2024 04:28:56 Europe/Rome] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/autoresponder/public_html/app/Framework/SymfonyRequest.php on line 37
+[23-Jul-2024 16:52:07 Europe/Rome] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/autoresponder/public_html/app/Framework/SymfonyRequest.php on line 37
+[23-Jul-2024 16:52:08 Europe/Rome] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/autoresponder/public_html/app/Framework/SymfonyRequest.php on line 37
+[25-Jul-2024 17:48:37 Europe/Rome] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/autoresponder/public_html/app/Framework/SymfonyRequest.php on line 37
+[25-Jul-2024 17:48:39 Europe/Rome] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/autoresponder/public_html/app/Framework/SymfonyRequest.php on line 37
+[25-Jul-2024 17:51:15 Europe/Rome] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/autoresponder/public_html/app/Framework/SymfonyRequest.php on line 37
+[25-Jul-2024 17:51:16 Europe/Rome] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/autoresponder/public_html/app/Framework/SymfonyRequest.php on line 37
